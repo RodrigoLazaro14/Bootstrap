@@ -1,0 +1,15 @@
+.bg {
+    background-image: linear-gradient(
+        rgba(255, 255, 255, 0.5) 0%,
+        rgba(255, 255, 255, 0.5) 100%
+      ),
+      url(../img/bgAlliancex.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+  }
+
+  .br-50 {
+    border-radius: 50%;
+  }
